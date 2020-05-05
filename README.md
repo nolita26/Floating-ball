@@ -1,1 +1,1 @@
-# Floating-ball-Python
+# Floating-ball
